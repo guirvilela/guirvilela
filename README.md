@@ -38,6 +38,6 @@
   
  </div>
   
-  ##
+ ##
   
-    ![Snake animation](https://github.com/guirvilela/guirvilela/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/guirvilela/guirvilela/blob/output/github-contribution-grid-snake.svg)
