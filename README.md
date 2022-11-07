@@ -24,6 +24,10 @@
   <img align="center" title='CSS' alt="grvilela-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     
   <img align="center" title='SCSS' alt="grvilela-SCSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  
+   <img align="center" title='JEST' alt="grvilela-JEST" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+   
+   <img align="center" title='STORYBOOK' alt="grvilela-STORYBOOK" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
     
   <img align="center" title='Ubuntu' alt="grvilela-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   
